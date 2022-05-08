@@ -1,4 +1,4 @@
-hello zhiyuan!hello git!  222
+ello zhiyuan!hello git!  222
 hello zhiyuan!hello git!  333
 hello zhiyuan!hello git!  master修改的文件	
 hello zhiyuan!hello git!  hot-fix text
@@ -16,3 +16,4 @@ hello zhiyuan!hello git!
 hello zhiyuan!hello git!
 hello zhiyuan!hello git!
 1111111
+第二个人修改了该文件
